@@ -1,1 +1,2 @@
 Odin the all father guides us all 
+Learning how to leave commit messages with VS code
