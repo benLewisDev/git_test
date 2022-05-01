@@ -1,0 +1,2 @@
+This is my Hello World file. 
+Im playing around with git in the cmd line to figure it out
